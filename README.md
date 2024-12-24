@@ -54,17 +54,17 @@ endmodule
 ```
 Developed by: SUDHARSAN S RegisterNumber: 24900437
 
-**RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+**RTL**
 
 
 ![Screenshot 2024-11-18 165240](https://github.com/user-attachments/assets/cf05569f-3e5a-48ed-a969-aea1c39184ad)
 
-**TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+**TIMING DIAGRAM**
 
 
 ![Screenshot 2024-11-29 134351](https://github.com/user-attachments/assets/f531ebab-63c2-4a1b-8e2d-6f04d9eb716c)
 
-**RESULTS**
+**RESULT**
 
   Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables is verified.
 
